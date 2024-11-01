@@ -1,0 +1,29 @@
+.div {
+    background-image: url('https://img.freepik.com/free-vector/gradient-abstract-background_23-2149101391.jpg?semt=ais_hybrid');
+    background-size: cover;
+    background-position: center;
+    padding: 400px;
+    text-align: center;
+    color: coral;
+}
+
+.heading {
+    font-size:3.5rem;
+    font-weight: bold;
+    color: #333;
+    margin-bottom:auto;
+    text-align:center;
+}
+
+.paragraph {
+    font-size: 1.2rem;
+    color: #ad1111;
+    max-width: 600px;
+    line-height:1.6;
+    text-align: center;
+    position:absolute; left: 30%;
+    text-wrap:balance ;
+    
+}
+
+

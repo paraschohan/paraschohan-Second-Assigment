@@ -1,0 +1,26 @@
+
+.heading {
+    background-color: #333;
+    color: white;
+    padding: 2rem;
+    text-align: center;
+    font-size: larger;
+    
+    
+}
+
+.list {
+    
+    display: flex;
+    flex-direction:row-reverse;
+    color:black;
+    font-size: larger;
+    right:Top 50% ;
+    display: flex;
+    
+}
+
+.container {
+    
+    margin: 0 1rem;
+}
